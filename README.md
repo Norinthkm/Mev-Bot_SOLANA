@@ -11,8 +11,6 @@
 
 ## 📢 Important Update (2025-02-16)
 
-- ### *Filtered reliable meme tokens with a minimum capitalization of $1 million,*
-- ###  *Good opportunity to get high profit from 5+ SOL deposit*
 - ### *[List of Tokens](tokens.txt)*
 ![⬛🤖 MevBot Banner](https://i.ibb.co/NdT9F2sD/meme.png)
 
